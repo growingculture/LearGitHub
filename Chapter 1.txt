@@ -1,5 +1,6 @@
 ### 1.  Introduction ###
 
+Hello. Welcome.
 This is an introduction.
 Birds are singing outside :)
 
